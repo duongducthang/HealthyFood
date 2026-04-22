@@ -1,0 +1,164 @@
+[
+    {
+  "_id": {
+    "$oid": "69c502d960e70ddc53c3b0c3"
+  },
+  "title": "Title",
+  "desc": "Body text for whatever you'd like to say. Add main takeaway points, quotes, anecdotes, or even a very short story.",
+  "kcal": 100,
+  "category": "Thứ 4",
+  "fullDesc": "Body text for whatever you'd like to say. Add main takeaway points, quotes, anecdotes, or even a very short story.",
+  "imageUrl": "",
+  "details": [],
+  "createdAt": {
+    "$date": "2026-03-26T09:56:41.746Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c502d960e70ddc53c3b0c2"
+  },
+  "title": "Title",
+  "desc": "Body text for whatever you'd like to say. Add main takeaway points, quotes, anecdotes, or even a very short story.",
+  "kcal": 100,
+  "category": "Thứ 3",
+  "fullDesc": "Body text for whatever you'd like to say. Add main takeaway points, quotes, anecdotes, or even a very short story.",
+  "imageUrl": "",
+  "details": [],
+  "createdAt": {
+    "$date": "2026-03-26T09:56:41.744Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c62ce9e740777c1db47113"
+  },
+  "title": "Title",
+  "desc": "Body text for whatever you'd like to say. Add main takeaway points, quotes, anecdotes, or even a very short story.",
+  "kcal": 100,
+  "category": "Thứ 2",
+  "fullDesc": "Body text for whatever you'd like to say. Add main takeaway points, quotes, anecdotes, or even a very short story.",
+  "imageUrl": "img-blog.svg",
+  "createdAt": {
+    "$date": "2026-03-27T07:08:25.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d5038b5b6cc20f82919c7d"
+  },
+  "title": "Potatoes",
+  "desc": "Potatoes are very high in vitamin C, their skins are packed with fiber...",
+  "kcal": 0,
+  "category": "Bữa sáng",
+  "fullDesc": "Potatoes are very high in vitamin C, their skins are packed with fiber and, although they are higher in carbs, these starchy complex carbohydrates are converted into energy and will keep you feeling fuller for longer.",
+  "imageUrl": "Potatoes.svg",
+  "details": [
+    {
+      "name": "Baked Potato",
+      "serving": "1 piece (173g)",
+      "calories": "212"
+    },
+    {
+      "name": "Croquettes",
+      "serving": "1 piece, small (19 g)",
+      "calories": "34"
+    },
+    {
+      "name": "Curly Fries",
+      "serving": "1 portion (85 g)",
+      "calories": "150"
+    },
+    {
+      "name": "French Fries",
+      "serving": "1 portion (120g)",
+      "calories": "374"
+    },
+    {
+      "name": "Gnocchi",
+      "serving": "1 portion (120g)",
+      "calories": "326"
+    },
+    {
+      "name": "Hash Browns",
+      "serving": "1 piece (50 g)",
+      "calories": "86"
+    },
+    {
+      "name": "Latkes",
+      "serving": "1 piece, small (25 g)",
+      "calories": "49"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-07T13:15:54.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d5038b5b6cc20f82919c7e"
+  },
+  "title": "Vegetables",
+  "desc": "Vegetables are a great high-volume, low-calorie option...",
+  "kcal": 0,
+  "category": "Bữa trưa",
+  "fullDesc": "Vegetables are a great high-volume, low-calorie option. You can eat a lot of them while keeping your calorie intake low.",
+  "imageUrl": "Vegetables.jpg",
+  "details": [
+    {
+      "name": "Arrowroot",
+      "serving": "1 piece (33 g)",
+      "calories": "21"
+    },
+    {
+      "name": "Artichoke",
+      "serving": "1 piece (128 g)",
+      "calories": "56"
+    },
+    {
+      "name": "Asparagus",
+      "serving": "1 piece, small (12 g)",
+      "calories": "2"
+    },
+    {
+      "name": "Asparagus, cooked",
+      "serving": "1 portion (125 g)",
+      "calories": "19"
+    },
+    {
+      "name": "Azuki Beans",
+      "serving": "1 portion (60 g)",
+      "calories": "217"
+    },
+    {
+      "name": "Baked Beans",
+      "serving": "1 cup (253 g)",
+      "calories": "266"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-07T13:15:55.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d5038b5b6cc20f82919c7f"
+  },
+  "title": "Mushrooms",
+  "desc": "High in protein and low in calories...",
+  "kcal": 0,
+  "category": "Bữa tối",
+  "fullDesc": "High in protein and low in calories, mushrooms that have been grown in the sun are also a great source of vitamin D.",
+  "imageUrl": "Mushroom.jpg",
+  "details": [
+    {
+      "name": "Button Mushrooms",
+      "serving": "100g",
+      "calories": "22"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-04-07T13:15:55.429Z"
+  }
+}
+]

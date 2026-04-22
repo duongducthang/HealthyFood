@@ -1,0 +1,60 @@
+[
+    {
+  "_id": {
+    "$oid": "69ccca7bf74e5a18611b3cae"
+  },
+  "email": "duongducthang14022003@gmail.com",
+  "userName": "Dương Đức Thắng",
+  "passwordHash": "$2b$10$iUFtPZBW/7EUTUzNjB32jeKg2WgDUEChGMM3XDUmknvQdmORGpjMm",
+  "createdAt": {
+    "$date": "2026-04-01T07:34:19.111Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cccad0f74e5a18611b3caf"
+  },
+  "email": "khang@gmail.com",
+  "userName": "D",
+  "phone": "0876655232",
+  "fullName": "Nguyễn Văn Khang",
+  "gender": "Nam",
+  "birthday": "2000-04-01",
+  "age": {
+    "$numberLong": "26"
+  },
+  "passwordHash": "$2b$10$uAyDS2L/gZf0gHS31wpwEehHBq7EEK0l83loMlETYa5l1hSTwvKfS",
+  "createdAt": {
+    "$date": "2026-04-01T07:35:44.439Z"
+  }
+},{
+  "_id": {
+    "$oid": "69ccd57974a96308d67ec2f6"
+  },
+  "email": "duongducthang1402@gmail.com",
+  "userName": "Duong Duc Thang ",
+  "phone": "0876655233",
+  "fullName": "Duong Duc Thang ",
+  "gender": "Nam",
+  "birthday": "2003-02-14",
+  "age": {
+    "$numberLong": "23"
+  },
+  "passwordHash": "$2b$10$4ezWit0FXO/P7LHxdAtL2.JlMkHCUYORfJUc.QjwcxO2ASkH4LH5m",
+  "createdAt": {
+    "$date": "2026-04-01T08:21:13.825Z"
+  },
+  "avatar": "/src/assets/img/Avatar.svg"
+},
+{
+  "_id": {
+    "$oid": "69ccdd5ba762e95351ff5515"
+  },
+  "email": "Khang@gmail.com",
+  "userName": "Nguyễn Văn Khang",
+  "passwordHash": "$2b$10$C2ZdjlmheSdPZKZGGgwGV.NVewUnyQPd/nbq2Vk4Gr8VBiadYG/p6",
+  "createdAt": {
+    "$date": "2026-04-01T08:54:51.348Z"
+  }
+}
+]

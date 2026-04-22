@@ -1,0 +1,255 @@
+[{
+  "_id": {
+    "$oid": "69c2a93efd96b77d41696096"
+  },
+  "foodName": "Trứng vịt",
+  "unit": "70g (1 quả)",
+  "qty": {
+    "$numberLong": "70"
+  },
+  "calories": 130,
+  "date": {
+    "$date": "2026-03-20T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-03-24T15:09:50.752Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c4f4ddd78aa2e2a92f3bcd"
+  },
+  "foodName": "Trứng vịt",
+  "unit": "70g (1 quả)",
+  "qty": {
+    "$numberLong": "210"
+  },
+  "calories": 390,
+  "date": {
+    "$date": "2026-03-26T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-03-26T08:57:01.351Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c683ce24e0cdd7ee182426"
+  },
+  "foodName": "Thịt gà",
+  "unit": "100g",
+  "qty": {
+    "$numberLong": "100"
+  },
+  "calories": 239,
+  "date": {
+    "$date": "2026-03-27T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-03-27T13:19:10.310Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cb82d6435bf832c4e04ac5"
+  },
+  "foodName": "Cá ngừ",
+  "unit": "100g",
+  "qty": {
+    "$numberLong": "900"
+  },
+  "calories": 1168.2,
+  "date": {
+    "$date": "2026-03-31T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-03-31T08:16:22.013Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cb82e0435bf832c4e04ac7"
+  },
+  "foodName": "Thịt heo",
+  "unit": "100g",
+  "qty": {
+    "$numberLong": "100"
+  },
+  "calories": 242.1,
+  "date": {
+    "$date": "2026-03-31T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-03-31T08:16:32.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cb82ea435bf832c4e04ac9"
+  },
+  "foodName": "Cá ngừ",
+  "unit": "100g",
+  "qty": {
+    "$numberLong": "100"
+  },
+  "calories": 129.8,
+  "date": {
+    "$date": "2026-03-31T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-03-31T08:16:42.561Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cb8465435bf832c4e04aca"
+  },
+  "foodName": "Trứng vịt",
+  "unit": "70g (1 quả)",
+  "qty": {
+    "$numberLong": "70"
+  },
+  "calories": 130,
+  "date": {
+    "$date": "2026-03-31T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-03-31T08:23:01.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cb8469435bf832c4e04acb"
+  },
+  "foodName": "Tôm",
+  "unit": "100g",
+  "qty": {
+    "$numberLong": "100"
+  },
+  "calories": 99.2,
+  "date": {
+    "$date": "2026-03-31T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-03-31T08:23:05.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cb93afc59a893fef3e46f2"
+  },
+  "foodName": "Thịt gà",
+  "unit": "100g",
+  "qty": {
+    "$numberLong": "100"
+  },
+  "calories": 239,
+  "date": {
+    "$date": "2026-03-31T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-03-31T09:28:15.113Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cf2f8c0fff1bd762d9d897"
+  },
+  "foodName": "Tôm",
+  "unit": "100g",
+  "qty": {
+    "$numberLong": "400"
+  },
+  "calories": 396.8,
+  "date": {
+    "$date": "2026-04-03T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-04-03T03:10:04.873Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cf2f960fff1bd762d9d898"
+  },
+  "foodName": "Cua",
+  "unit": "100g",
+  "qty": {
+    "$numberLong": "500"
+  },
+  "calories": 515,
+  "date": {
+    "$date": "2026-04-03T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-04-03T03:10:14.201Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cf31900fff1bd762d9d89b"
+  },
+  "foodName": "Trứng vịt",
+  "unit": "70g (1 quả)",
+  "qty": {
+    "$numberLong": "70"
+  },
+  "calories": 130,
+  "date": {
+    "$date": "2026-04-03T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-04-03T03:18:40.046Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cf3f0b0fff1bd762d9d89e"
+  },
+  "foodName": "Dưa hấu",
+  "unit": "400g",
+  "qty": {
+    "$numberLong": "100"
+  },
+  "calories": 120,
+  "date": {
+    "$date": "2026-04-03T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-04-03T04:16:11.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cf3f160fff1bd762d9d8a0"
+  },
+  "foodName": "Súp lơ",
+  "unit": "400g",
+  "qty": {
+    "$numberLong": "100"
+  },
+  "calories": 100,
+  "date": {
+    "$date": "2026-04-03T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-04-03T04:16:22.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69cf3f220fff1bd762d9d8a1"
+  },
+  "foodName": "Khoai tây",
+  "unit": "100g",
+  "qty": {
+    "$numberLong": "100"
+  },
+  "calories": 77,
+  "date": {
+    "$date": "2026-04-03T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-04-03T04:16:34.060Z"
+  }
+}]

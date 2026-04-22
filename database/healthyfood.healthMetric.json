@@ -1,0 +1,86 @@
+[
+    {
+  "_id": {
+    "$oid": "69ccc9e1f74e5a18611b3cac"
+  },
+  "userId": {
+    "$oid": "69c629d5e740777c1db47111"
+  },
+  "weight": 100,
+  "height": 200,
+  "bmi": 25,
+  "date": {
+    "$date": "2026-04-01T07:31:45.201Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ce250eb446130ea48da321"
+  },
+  "userId": {
+    "$oid": "69ccd57974a96308d67ec2f6"
+  },
+  "weight": 89,
+  "height": 190,
+  "bmi": 24.7,
+  "date": {
+    "$date": "2026-04-02T08:13:01.988Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d45fd6e09cec4346d5601e"
+  },
+  "userId": {
+    "$oid": "69ccd57974a96308d67ec2f6"
+  },
+  "weight": 80,
+  "height": 180,
+  "bmi": 24.7,
+  "date": {
+    "$date": "2026-04-07T01:37:25.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d48454dc0968d2383bbfcd"
+  },
+  "userId": {
+    "$oid": "69ccd57974a96308d67ec2f6"
+  },
+  "weight": 78,
+  "height": 187,
+  "bmi": 22.3,
+  "date": {
+    "$date": "2026-04-07T04:13:08.799Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d48487dc0968d2383bbfce"
+  },
+  "userId": {
+    "$oid": "69ccd57974a96308d67ec2f6"
+  },
+  "weight": 77,
+  "height": 178,
+  "bmi": 24.3,
+  "date": {
+    "$date": "2026-04-07T04:13:59.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d5b11e729f6d19b5f820be"
+  },
+  "userId": {
+    "$oid": "69ccd57974a96308d67ec2f6"
+  },
+  "weight": 79,
+  "height": 188,
+  "bmi": 22.4,
+  "date": {
+    "$date": "2026-04-08T01:36:29.322Z"
+  }
+}
+]

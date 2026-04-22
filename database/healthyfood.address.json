@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "69ccd57974a96308d67ec2f7"
+  },
+  "userId": {
+    "$oid": "69ccd57974a96308d67ec2f6"
+  },
+  "name": "Duong Duc Thang",
+  "phone": "0876655233",
+  "fullAddress": "aaaaaa, Hà Đông, Hà Nội, tp hcm",
+  "isDefault": false,
+  "createdAt": {
+    "$date": "2026-04-01T08:21:13.987Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ccddbda762e95351ff5516"
+  },
+  "userId": {
+    "$oid": "69ccd57974a96308d67ec2f6"
+  },
+  "name": "Thắng Dương111",
+  "phone": "0987654321",
+  "fullAddress": "tp hcm\ntphcm, Đường Mễ Trì, Phường Mễ Trì, tp hcm",
+  "isDefault": false,
+  "createdAt": {
+    "$date": "2026-04-01T08:56:29.274Z"
+  }
+}]
